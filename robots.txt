@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: https://predatoor-slop.github.io/slp-1/sitemap.xml
